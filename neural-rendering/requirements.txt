@@ -1,0 +1,5 @@
+torch>=2.1.0
+numpy>=1.24.0
+tinycudann>=1.7
+nerfacc>=0.5.3
+Pillow>=10.0.0
